@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+::selection{
+  color: rgb(175, 180, 39)
+}
+
+*{
+  font-family: sans-serif;
+}
